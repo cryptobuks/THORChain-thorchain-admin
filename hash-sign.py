@@ -4,8 +4,8 @@ import os.path
 
 targetdirectory = 'C:/Users/ron/Documents/FilesToHash/*'
 hasharray = []
-signaturetext = """The following hashes have been signed for verification using keejef's GPG keys
-located in the loki core repository at https://github.com/loki-project/loki-core/blob/master/utils/gpg_keys/KeeJef.asc.
+signaturetext = """The following hashes have been signed for verification using THORCHAIN-ADMIN GPG keys
+located on the profile at https://github.com/thorchain-admin
 SHA256 Hashes\n
 """
 stringhashes = ""
